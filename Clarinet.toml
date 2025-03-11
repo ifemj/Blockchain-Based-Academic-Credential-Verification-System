@@ -10,6 +10,11 @@ path = 'contracts/access-control.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.continuing-education]
+path = 'contracts/continuing-education.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.credential-issuance]
 path = 'contracts/credential-issuance.clar'
 clarity_version = 2

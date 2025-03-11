@@ -13,3 +13,7 @@ M
 contracts/access-control.clar,6/6/669f44b87120b222b50b4b39670be7edd9bd587e
 L
 tests/access-control.test.ts,1/e/1e94a77628633661eb7a04e44552fb418034370a
+R
+"tests/continuing-education.test.ts,8/e/8ee257a150faf12c3aebd3849ff181a6be32a82a
+S
+#contracts/continuing-education.clar,7/f/7fc7596c3099cc0ba66180ada91ff013db15efda
